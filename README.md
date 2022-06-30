@@ -14,3 +14,6 @@
 全体在full.txt里面
 
 如何使用参考[结巴分词的载入词典](https://github.com/fxsjy/jieba#%E8%BD%BD%E5%85%A5%E8%AF%8D%E5%85%B8)一节
+
+
+欢迎pr提交更多国家/地区的地名（行政规划）！ pr时请一并提交添加后的full.txt 万分感谢！
